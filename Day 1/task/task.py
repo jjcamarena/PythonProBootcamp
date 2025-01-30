@@ -3,7 +3,7 @@
 # Learn to use `\n` to add a new line to strings.
 
 print("Hello")
-print("Word")
+print("World")
 
 # is the same as:
 
