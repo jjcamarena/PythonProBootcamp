@@ -12,6 +12,6 @@ print("Hello\nWorld")
 # 2. String Concatenation
 # Use the plus symbol `+` to concatenate different strings together
 
-print("My name is" + " " + "Pepe")
+print("My name is" + " " + "Pepito")
 
-# will output: "My name is Pepe"
+# will output: "My name is Pepito"
