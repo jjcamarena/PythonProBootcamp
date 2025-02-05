@@ -28,3 +28,19 @@ while number_of_jumps > 0:
 #         jump()
 #     else:
 #         move()
+# Reeborg's World
+# Hurdles 4 and Maze
+# def turn_right():
+#     turn_left()
+#     turn_left()
+#     turn_left()
+
+# while not at_goal():
+#     if right_is_clear():
+#         turn_right()
+#         move()
+#     elif front_is_clear():
+#         move()
+#     else: 
+#        turn_left()
+
